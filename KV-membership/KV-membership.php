@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name: Membership Registration
+  Plugin Name: Simple Membership Registration
   Plugin URI: http://honeystreet.com
   Description: Adds registration functionality. Extends the User Registration Add-on of Gravity Forms. Both Gravity Forms and it's User Registration Add-on are required plugins.
   Version: 1.0

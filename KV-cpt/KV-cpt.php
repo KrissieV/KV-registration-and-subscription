@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Custom Post Types
+Plugin Name: KV Custom Post Types
 Plugin URI: http://www.honeystreet.com
 Description: 
 Version: 1.0
